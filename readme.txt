@@ -1,1 +1,1 @@
-This is test directory.
+This is test directory created by InsaneCoder.
