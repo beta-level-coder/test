@@ -8,3 +8,9 @@ background:transparent;
 margin:0px;
 padding:0px;
 }
+.header{
+color:crimson;
+background:white;
+font-size:1.8rem;
+transition:0.3s linear;
+}
